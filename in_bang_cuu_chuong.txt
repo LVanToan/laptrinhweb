@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bangcuuchuong_2
+=======
+bangcuuchuong_3
+>>>>>>> bangcuuchuong_3
